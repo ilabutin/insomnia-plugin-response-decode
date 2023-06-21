@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-xml-response-decode",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "xml-response-decode",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "entities": "^4.5.0"
+  }
+}
